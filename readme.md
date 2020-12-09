@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">Vanilla JavaScript App</h3>
-
+- [Web App Static with Azure](#WAS)
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
