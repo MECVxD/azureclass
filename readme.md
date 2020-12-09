@@ -22,6 +22,7 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
+- [Web App Static with Azure](#WAS)
 - [Deployment](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
@@ -29,6 +30,10 @@
 - [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
+
+## 🧐 Web App Static with Azure <a name = "WAS"></a>
+
+Link to WebPage https://wonderful-plant-09555d010.azurestaticapps.net/
 
 ## 🧐 About <a name = "about"></a>
 
